@@ -1,2 +1,2 @@
 # Desafio02
- Projeto cordel, curso em vídeo.
+ Projeto cordel : https://leoslepack.github.io/Projeto-cordel1/
